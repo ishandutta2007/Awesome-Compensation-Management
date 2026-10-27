@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Compensation-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Compensation-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Compensation-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Compensation-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Compensation-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Compensation-Management?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Compensation-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Compensation-Management?color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Compensation-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-blue.svg" alt="License" /></a>
@@ -71,93 +71,93 @@ The table below outlines leading commercial platforms, ranked descending by esti
 
 ## ⚡ Open-Source GitHub Projects
 
-The following open-source repositories provide foundational code, HRMS modules, salary calculation engines, equity structures, and analytics scripts. Repositories are sorted in **descending order by GitHub star count**.
+The following open-source repositories provide foundational code, HRMS modules, salary calculation engines, equity structures, and analytics scripts. Repositories are sorted in **descending order by GitHub Stars_Count**.
 
-- **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+- **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
   
   **Open-source ERP suite with HR, Payroll & Contract modules** (LGPL-3.0). Includes employee contract definitions, base wage setting, allowance/deduction components, and automated payroll execution. Community edition provides core pay structures, while third-party apps extend it to merit matrices.
   * **Tech stack**: Python, JavaScript, PostgreSQL
   * **License**: LGPL-3.0 | **Deploy**: Self-hosted, Docker, Odoo Cloud
   * **Best for**: Businesses seeking an integrated ERP with configurable compensation and payroll backbones.
 
-- **[Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)** [![GitHub stars](https://img.shields.io/github/stars/jlevy/og-equity-compensation?style=social&color=white)](https://github.com/jlevy/og-equity-compensation/stargazers)
+- **[Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)** [![GitHub_Stars](https://img.shields.io/github/stars/jlevy/og-equity-compensation?style=social&color=white)](https://github.com/jlevy/og-equity-compensation/stargazers)
   
   **Comprehensive open reference and analysis for equity compensation** (stock options, RSUs, vesting schedules, AMT, 83(b) elections, and taxes). The definitive developer and founder guide to startup total compensation modeling.
   * **Tech stack**: Markdown, MathJax
   * **License**: CC-BY-SA-4.0
   * **Best for**: Founders, HR leaders, and engineers evaluating or designing total equity reward programs.
 
-- **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
+- **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
   
   **Open-source HR and Payroll engine** (GPL-3.0) for Frappe and ERPNext. Features robust **Salary Structure** assignments, formula-based earning/deduction components, multi-currency payroll, tax bracket formulas, and automated payslip generation.
   * **Tech stack**: Python (Frappe Framework), Vue.js, MariaDB
   * **License**: GPL-3.0 | **Deploy**: Self-hosted or Frappe Cloud
   * **Best for**: Organizations requiring customizable salary rules, tax deductions, and payroll infrastructure.
 
-- **[Gauzy](https://github.com/ever-co/gauzy)** [![GitHub stars](https://img.shields.io/github/stars/ever-co/gauzy?style=social&color=white)](https://github.com/ever-co/gauzy/stargazers)
+- **[Gauzy](https://github.com/ever-co/gauzy)** [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/gauzy?style=social&color=white)](https://github.com/ever-co/gauzy/stargazers)
   
   **Open-source business management and ERP software** designed for modern agencies, remote teams, and enterprises. Features employee contracts, hourly wage tracking, bonus accounting, payroll processing, and time-tracking compensation integration.
   * **Tech stack**: TypeScript, NestJS, Angular, TypeORM
   * **License**: AGPL-3.0 | **Deploy**: Docker, Kubernetes, Cloud
   * **Best for**: Tech consultancies and remote-first organizations managing distributed workforce compensation.
 
-- **[Horilla HRMS](https://github.com/horilla-opensource/horilla)** [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)
+- **[Horilla HRMS](https://github.com/horilla-opensource/horilla)** [![GitHub_Stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)
   
   **Free and open-source Human Resource Management software** built with Python and Django. Offers comprehensive employee management, allowances/deductions configuration, salary batch processing, and contract lifecycle workflows.
   * **Tech stack**: Python, Django, HTML5/CSS3
   * **License**: LGPL-3.0 | **Deploy**: Self-hosted, Docker
   * **Best for**: SMBs looking for a clean, extensible Django-based HR platform with compensation modules.
 
-- **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
+- **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub_Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
   
   **Open-source HR management system** (GPL-3.0) providing basic salary administration, pay grade bands, currency assignments, direct deposit specifications, and employee compensation history logs.
   * **Tech stack**: PHP, Symfony, MySQL
   * **License**: GPL-3.0 | **Deploy**: Self-hosted, LAMP, Docker
   * **Best for**: Small-to-mid HR teams requiring structured pay grade records within a classic HRMS environment.
 
-- **[Comp Band Analyzer (Claude-Skills)](https://github.com/borghei/Claude-Skills)** [![GitHub stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=social&color=white)](https://github.com/borghei/Claude-Skills/stargazers)
+- **[Comp Band Analyzer (Claude-Skills)](https://github.com/borghei/Claude-Skills)** [![GitHub_Stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=social&color=white)](https://github.com/borghei/Claude-Skills/stargazers)
   
   **Python script and agent skill for pay band health and pay equity analysis**. Computes compa-ratios against job ranges, detects pay disparity outliers, flags comp anomalies, and suggests merit budget allocations.
   * **Tech stack**: Python, Pandas
   * **License**: MIT
   * **Best for**: People analytics teams and HR analysts needing quick, modular audit scripts for compa-ratios.
 
-- **[IceHrm](https://github.com/gamonoid/icehrm)** [![GitHub stars](https://img.shields.io/github/stars/gamonoid/icehrm?style=social&color=white)](https://github.com/gamonoid/icehrm/stargazers)
+- **[IceHrm](https://github.com/gamonoid/icehrm)** [![GitHub_Stars](https://img.shields.io/github/stars/gamonoid/icehrm?style=social&color=white)](https://github.com/gamonoid/icehrm/stargazers)
   
   **Modular open-source HR management platform** (Apache-2.0). Provides salary components configuration, basic payroll processing, department compensation summaries, and employee expense claims.
   * **Tech stack**: PHP, AngularJS, MySQL
   * **License**: Apache-2.0 | **Deploy**: Self-hosted, Docker
   * **Best for**: Companies seeking a permissive Apache-2.0 licensed HR base for employee salary tracking.
 
-- **[Tax-Calculator](https://github.com/PSLmodels/Tax-Calculator)** [![GitHub stars](https://img.shields.io/github/stars/PSLmodels/Tax-Calculator?style=social&color=white)](https://github.com/PSLmodels/Tax-Calculator/stargazers)
+- **[Tax-Calculator](https://github.com/PSLmodels/Tax-Calculator)** [![GitHub_Stars](https://img.shields.io/github/stars/PSLmodels/Tax-Calculator?style=social&color=white)](https://github.com/PSLmodels/Tax-Calculator/stargazers)
   
   **Open-source Federal Individual Income and Payroll Tax Microsimulation Model** (PSL). Simulates US federal tax liabilities, FICA payroll taxes, and net take-home pay under existing tax law and reform proposals.
   * **Tech stack**: Python, NumPy, Pandas
   * **License**: CC0-1.0
   * **Best for**: Quantitative compensation analysts modeling gross-to-net take-home pay and tax impact of executive bonus/equity payouts.
 
-- **[Aragon Payroll App](https://github.com/1Hive/payroll-app)** [![GitHub stars](https://img.shields.io/github/stars/1Hive/payroll-app?style=social&color=white)](https://github.com/1Hive/payroll-app/stargazers)
+- **[Aragon Payroll App](https://github.com/1Hive/payroll-app)** [![GitHub_Stars](https://img.shields.io/github/stars/1Hive/payroll-app?style=social&color=white)](https://github.com/1Hive/payroll-app/stargazers)
   
   **Decentralized streaming salary and compensation smart contracts** for DAOs and Web3 organizations. Supports tokenized compensation streams, recurring wage distributions, and deferred compensation agreements.
   * **Tech stack**: Solidity, JavaScript, AragonOS
   * **License**: GPL-3.0
   * **Best for**: Web3 protocols and decentralized autonomous organizations (DAOs) automating continuous token compensation.
 
-- **[PaySQL (SalaryManagementSystem)](https://github.com/nowshad7/SalaryManagementSystem)** [![GitHub stars](https://img.shields.io/github/stars/nowshad7/SalaryManagementSystem?style=social&color=white)](https://github.com/nowshad7/SalaryManagementSystem/stargazers)
+- **[PaySQL (SalaryManagementSystem)](https://github.com/nowshad7/SalaryManagementSystem)** [![GitHub_Stars](https://img.shields.io/github/stars/nowshad7/SalaryManagementSystem?style=social&color=white)](https://github.com/nowshad7/SalaryManagementSystem/stargazers)
   
   **Relational database payroll and compensation management engine** written in Oracle PL/SQL. Handles employee records, allowances, overtime rules, provident funds, income tax slabs, and pay-run cycles.
   * **Tech stack**: Oracle PL/SQL, SQL
   * **License**: Open Source
   * **Best for**: Database architects seeking pure SQL/stored-procedure logic for salary calculations.
 
-- **[CommissionPro](https://github.com/Estevan-Z/CommissionPro)** [![GitHub stars](https://img.shields.io/github/stars/Estevan-Z/CommissionPro?style=social&color=white)](https://github.com/Estevan-Z/CommissionPro/stargazers)
+- **[CommissionPro](https://github.com/Estevan-Z/CommissionPro)** [![GitHub_Stars](https://img.shields.io/github/stars/Estevan-Z/CommissionPro?style=social&color=white)](https://github.com/Estevan-Z/CommissionPro/stargazers)
   
   **Lightweight sales commission tracking tool** (Django/Python). Configures commission percentages, sales performance tiers, and incentive payout calculations.
   * **Tech stack**: Python (Django), SQLite
   * **License**: Open Source
   * **Best for**: Small sales operations needing dedicated commission calculation logic.
 
-- **[FairPay](https://github.com/kcngkc/FairPay)** [![GitHub stars](https://img.shields.io/github/stars/kcngkc/FairPay?style=social&color=white)](https://github.com/kcngkc/FairPay/stargazers)
+- **[FairPay](https://github.com/kcngkc/FairPay)** [![GitHub_Stars](https://img.shields.io/github/stars/kcngkc/FairPay?style=social&color=white)](https://github.com/kcngkc/FairPay/stargazers)
   
   **Autonomous AI HR compensation benchmarking agent**. Demonstrates integration between BigQuery, US Bureau of Labor Statistics (BLS OEWS) wage surveys, LLM analysis, and compa-ratio variance alerting.
   * **Tech stack**: Python, Google Cloud BigQuery, Gemini AI
@@ -186,7 +186,7 @@ Contributions are welcome and greatly appreciated!
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`
-3. 📝 **Add your entry**: Ensure you follow the existing tabular format for SaaS or list format for Open-Source repos (including license, tech stack, and GitHub star badge).
+3. 📝 **Add your entry**: Ensure you follow the existing tabular format for SaaS or list format for Open-Source repos (including license, tech stack, and GitHub Stars_Badge).
 4. 🚀 **Commit your changes**: `git commit -m "Add new compensation tool"`
 5. 📬 **Submit a Pull Request**: Provide a concise summary and official documentation links.
 
