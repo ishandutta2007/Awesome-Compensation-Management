@@ -32,6 +32,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,69 +43,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global compensation management software market is estimated at **$5.07B to $5.74B** (with the broader payroll and total rewards software ecosystem exceeding **$28B+**), expanding at an estimated compound annual growth rate (CAGR) of 10%–13%. The sector is **moderately fragmented**: mega-cap enterprise Human Capital Management (HCM) conglomerates (Oracle, SAP, Workday) capture high-volume multi-module enterprise accounts, but cannot build a winner-take-all monopoly due to strong enterprise demand for specialized, best-of-breed point solutions (Payscale, Salary.com, Beqom, Lattice) that provide deep proprietary salary survey benchmarking datasets, pay equity compliance analytics, and complex variable/equity incentive cycle modeling.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Workday Compensation](https://www.workday.com/)**
-
-  **Enterprise compensation planning** integrated with Workday HCM. **Pricing**: Third-party estimates place standard compensation at **$18–$42 per employee per year**, with sales and equity extensions adding $8–$22 and $6–$18 per eligible employee respectively; implementation typically runs **$140,000–$420,000** for standard deployments . **Free tier**: None. **Best for**: large enterprises already on Workday wanting merit, bonus, and equity planning unified with performance and talent data.
-
-
-
-- **[Payscale](https://www.payscale.com/)**
-
-  **Market data and compensation management platform** with benchmarking, pay equity analysis, and job architecture. **Pricing**: Observed annual contract values range from **$12,000–$35,000** for MarketPay (200–1,000 employees) to **$40,000–$90,000** for Insight Lab (mid-market); implementation adds $5,000–$50,000+ . **Free tier**: None. **Best for**: organizations prioritizing market benchmarking data with modular compensation tools.
-
-
-
-- **[Beqom](https://www.beqom.com/)**
-
-  **Pay management platform** for compensation planning, sales incentives, and total rewards. **Pricing**: Quote-only; third-party listings suggest starting around **CHF 50,000/year** or **$150/user/month** depending on source . **Free tier**: None. **Best for**: mid-sized to large enterprises with complex, customized compensation structures across multiple pay types.
-
-
-
-- **[Decusoft Compose](https://www.decupsoft.com/)**
-
-  **Compensation planning platform** for merit, bonus, and equity cycles. **Pricing**: Third-party estimates vary widely—SelectHub lists **$2/user/month**, while other sources indicate quote-only pricing . **Free tier**: None. **Best for**: HR and finance teams wanting a dedicated planning tool without full HRIS replacement.
-
-
-
-- **[Salary.com CompAnalyst](https://www.salary.com/)**
-
-  **Market data and compensation analytics** with pay equity suite and job architecture tools. **Pricing**: Quote-only; annual contract values range from **low-to-mid five figures** for small businesses to **mid-to-high six figures** for enterprise deployments with multiple modules and consulting . **Free tier**: None. **Best for**: mid-market and enterprise teams needing deep market data plus pay equity compliance capabilities.
-
-
-
-- **[Lattice](https://lattice.com/)**
-
-  **Performance and compensation management** platform. Compensation is an add-on module to the broader Lattice suite. **Pricing**: Compensation add-on lists at **$6/seat/month** on top of a base platform starting at $13/seat/month; minimum annual agreement **$4,000** . **Free tier**: None. **Best for**: organizations already using Lattice for performance wanting integrated compensation planning.
-
-
-
-- **[Culture Amp](https://www.cultureamp.com/)**
-
-  **Engagement and performance platform** with compensation module. **Pricing**: Quote-only; median observed contract value **$23,400/year**, with implementation adding 10–25% and premium support 10–20% . **Free tier**: None. **Best for**: companies using Culture Amp for engagement seeking a connected compensation planning experience.
-
-
-
-- **[SAP SuccessFactors Compensation](https://www.sap.com/products/hcm/compensation-management.html)**
-
-  **Enterprise compensation planning** within the SuccessFactors HCM suite. **Pricing**: Per-user-per-month, quote-only; bundling three or more modules typically yields **15–28% discount** versus standalone . **Free tier**: None. **Best for**: SAP-centric enterprises wanting compensation integrated with performance, recruiting, and core HR.
-
-
-
-- **[Oracle Fusion HCM Compensation](https://www.oracle.com/human-capital-management/)**
-
-  **Cloud HCM compensation module**. **Pricing**: HCM Enterprise bundle (Core HR + Talent + Compensation + Benefits) achievable net rates range from **$11–$16 per employee per month** (1,000–5,000 employees) down to **$5.50–$9** (25,000–50,000 employees) . **Free tier**: None. **Best for**: Oracle cloud customers wanting compensation unified with core HR and talent.
-
-
-
-- **[CompXL](https://compxl.com/)**
-
-  **Compensation planning and management** platform. **Pricing**: Third-party listing indicates starting at **$35 per employee per month**; free trial available upon request . **Free tier**: Trial available. **Best for**: organizations wanting dedicated compensation planning with flexible deployment options.
-
-
+| Platform | Revenue / Valuation (Descending) | Pricing | Free Tier Limits | Key Highlights & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Oracle Fusion HCM Compensation](https://www.oracle.com/human-capital-management/)** | ~$53B ARR / ~$450B+ Market Cap | Achievable net rates of **$11–$16/employee/month** (for 1,000–5,000 employees; scales down to $5.50–$9 for 25,000+ employees) within the HCM Enterprise bundle. | **No free tier** for HCM application; 30-day trial with $300 cloud credits limited to underlying OCI infrastructure testing. | Best for Oracle Cloud HCM customers seeking unified compensation, talent, and core HR. |
+| **[SAP SuccessFactors Compensation](https://www.sap.com/products/hcm/compensation-management.html)** | ~€31B ARR (~$34B) / ~$240B+ Market Cap | Starts at approximately **$4.00–$8.50/user/month** (bundled multi-module agreements yield 15%–28% discounts; typically sold under annual agreements). | **30-day free trial**; access limited to a shared sandbox environment with pre-populated demo data and guided evaluation tours. | Best for SAP-centric global enterprises integrating merit planning with core HR. |
+| **[Workday Compensation](https://www.workday.com/)** | ~$7.3B ARR / ~$65B+ Market Cap | Starts at **$18–$42/employee/year** base compensation module ($1.50–$3.50/employee/month), plus $6–$22/employee for sales/equity add-ons; $140,000+ typical implementation. | **No free tier** or trial for Workday HCM/Compensation (only Workday Adaptive Planning offers a separate 30-day trial). | Best for large enterprises already on Workday wanting compensation connected to talent analytics. |
+| **[Lattice](https://lattice.com/)** | ~$130M ARR / $3.0B Valuation | Base platform starts at **$13/seat/month**, plus **$6/seat/month** for the Compensation add-on module ($19/seat/month total; minimum annual commitment of $4,000). | **No free tier** or free trial; platform evaluation is available solely via scheduled sales walkthroughs. | Best for organizations running performance management on Lattice looking for tightly linked merit cycles. |
+| **[Culture Amp](https://www.cultureamp.com/)** | ~$200M ARR / $1.5B Valuation | Median observed contract value starting around **$23,400/year** (approximately $7–$12/employee/month at mid-market volumes plus 10%–25% onboarding). | **No free tier** or free trial; product demonstrations and guided evaluations require sales approval. | Best for organizations prioritizing employee engagement and feedback-driven compensation cycles. |
+| **[Payscale](https://www.payscale.com/)** | ~$175M ARR / ~$800M+ PE Backing (Francisco Partners) | **$12,000–$35,000/year** for MarketPay entry-tier (200–1,000 employees); Insight Lab ranges $40,000–$90,000/year. | **Payfactors Free Tier**: Limited to pricing individual benchmark jobs in the US & Canada; expires after 1 year or 90 consecutive days of inactivity. | Best for HR teams needing comprehensive market salary benchmarking data, job architectures, and pay equity tools. |
+| **[Salary.com CompAnalyst](https://www.salary.com/)** | ~$80M ARR / ~$400M+ PE Backing (Accel-KKR / H.I.G.) | Starts in the **low-to-mid five figures ($15,000–$30,000/year)** for small/mid-market CompAnalyst deployments; up to $100,000+ for enterprise. | **14-day free trial**; limited specifically to CompAnalyst Market Data benchmarking lookups (no credit card required). Full software suite requires quote. | Best for compensation analysts requiring granular salary survey data and pay equity compliance. |
+| **[Beqom](https://www.beqom.com/)** | ~$40M ARR / ~$500M+ PE Backing (Sumeru Equity) | Quote-only enterprise plans starting at approximately **CHF 50,000/year (~$55,000/year)** or ~$150/user/month depending on scope. | **No free tier** or self-service trial; evaluation is strictly handled through customized enterprise proof-of-concept demos. | Best for large multinational corporations with complex variable pay, sales incentives, and LTI structures. |
+| **[Decusoft Compose](https://www.decupsoft.com/)** | ~$15M ARR / Private (FINTOP Capital) | Starting tier estimates from **$2.00–$5.00/user/month** for planning modules, or custom enterprise annual license averaging $20,000–$50,000/year. | **No free tier** or public free trial; evaluation is restricted to custom vendor-led demonstrations. | Best for dedicated variable compensation, merit cycles, and bonus allocation without full HRIS replacement. |
+| **[CompXL](https://compxl.com/)** | ~$10M ARR / Acquired by Salary.com | Third-party benchmarks list starting pricing at **$35/employee/month** (or ~$10,000–$25,000 annual minimum depending on employee count). | **No free tier** or free trial; access requires a vendor sales consultation and guided demo. | Best for mid-sized organizations seeking spreadsheet-like flexibility in merit, bonus, and incentive cycle planning. |
 
 ## Open-Source GitHub Projects
 
